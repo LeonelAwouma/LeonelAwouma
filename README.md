@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5jcHR5NDlpZ2ExNWlqN3NpNm1udWJ5bTZsMGxodmF1NWtzNTloYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="600" alt="Code GIF">
+  <img src="Loop Glow GIF.gif" width="600" alt="Code GIF">
 </p>
 
 <!-- FR Version -->
