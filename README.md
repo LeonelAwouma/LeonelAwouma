@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVmbW84Nmg2ZXUwOXE4d2lsd3Fpa3QzbG83OTB3ZWJyd3JrZmUzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuXaJKoTb4GpGGXV9r/giphy.gif" width="600" alt="Code GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3aXJjM2I0bWh6dnluOTk4aDB6a3h0ZXI0cDV5YWo3ZXJubXVwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Code GIF">
 </p>
 
 <!-- FR Version -->
