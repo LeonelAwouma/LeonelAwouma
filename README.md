@@ -91,7 +91,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Hello%2C+I'm+Leonel+AWOUMA;Passionate+Developer;Software+Solutions+Architect;Technology+Explorer" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Hello%2C+I'm+Leonel+AWOUMA;Passionate+Developer;Systems+Administrator;Technology+Explorer" alt="Typing SVG"></a>
   <p>My name is Leonel Awouma, a Systems and Network Administration Engineer based in Yaoundé, Cameroon, ready to turn your technological challenges into opportunities! With a strong passion for customer satisfaction and sharp expertise, I bring solid skills in network installation, configuration, and security, while optimizing performance with tailored solutions.
 
 Dynamic and committed, I also lead trainings and seminars on AI, ensuring fast and reliable support to boost your productivity. Get in touch today!</p>
