@@ -1,6 +1,6 @@
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXB3aXJjM2I0bWh6dnluOTk4aDB6a3h0ZXI0cDV5YWo3ZXJubXVwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="Code GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVmbW84Nmg2ZXUwOXE4d2lsd3Fpa3QzbG83OTB3ZWJyd3JrZmUzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iuXaJKoTb4GpGGXV9r/giphy.gif" width="600" alt="Code GIF">
 </p>
 
 <!-- FR Version -->
@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Bonjour%2C+je+suis+Leonel+AWOUMA;Développeur+Passionné;Architecte+de+Solutions+Logicielles;Explorateur+de+Technologies" alt="Typing SVG"></a>
-  <p>Je suis un développeur qui transforme des idées complexes en applications élégantes et fonctionnelles. Ce profil est une vitrine de mon parcours à travers le code et de ma quête constante d'apprentissage.</p>
+  <p>Je m'appelle Leonel Awouma, un expert en administration systèmes et réseaux basé à Yaoundé, Cameroun, prêt à transformer vos défis technologiques en opportunités ! Avec une passion pour la satisfaction client et une expertise pointue, je dispose des compétences dans l’installation, la configuration et la sécurisation des réseaux, tout en optimisant les performances avec des solutions sur mesure.Dynamique et engagé, il anime des formations et séminaires sur l’IA, garantissant une assistance rapide pour booster votre productivité. Contactez-le dès aujourd’hui !</p>
 </div>
 
 ---
