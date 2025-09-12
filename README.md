@@ -10,7 +10,8 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Bonjour%2C+je+suis+Leonel+AWOUMA;Développeur+Passionné;Administrateur+Systèmes+&+Réseaux;Explorateur+de+Technologies" alt="Typing SVG"></a>
-  <p>Je m'appelle Leonel Awouma, un expert en administration systèmes et réseaux basé à Yaoundé, Cameroun, prêt à transformer vos défis technologiques en opportunités ! Avec une passion pour la satisfaction client et une expertise pointue, je dispose des compétences dans l’installation, la configuration et la sécurisation des réseaux, tout en optimisant les performances avec des solutions sur mesure.Dynamique et engagé, il anime des formations et séminaires sur l’IA, garantissant une assistance rapide pour booster votre productivité. Contactez-le dès aujourd’hui !</p>
+  <p>Je m'appelle Leonel Awouma, ingénieur en administration systèmes et réseaux basé à Yaoundé, Cameroun, prêt à transformer vos défis technologiques en opportunités ! Avec une passion pour la satisfaction client et une expertise pointue, je dispose des compétences dans l’installation, la configuration et la sécurisation des réseaux, tout en optimisant les performances avec des solutions sur mesure.
+    Dynamique et engagé, il anime des formations et séminaires sur l’IA, garantissant une assistance rapide pour booster votre productivité. Contactez-le dès aujourd’hui !</p>
 </div>
 
 ---
@@ -79,7 +80,7 @@
 <br>
 
 <p align="center">
-  <cite>"Celui qui cultive son champ est rassasié de pain, mais celui qui poursuit des choses vaines est dépourvu de sens." — Proverbes 12:11</cite>
+  <cite>"Tout travail procure l’abondance, mais les paroles en l’air ne mènent qu’à la disette." — Proverbes 14:23</cite>
 </p>
 
 </details>
@@ -91,7 +92,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Hello%2C+I'm+Leonel+AWOUMA;Passionate+Developer;Software+Solutions+Architect;Technology+Explorer" alt="Typing SVG"></a>
-  <p>I am a developer who transforms complex ideas into elegant and functional applications. This profile is a showcase of my journey through code and my constant quest for learning.</p>
+  <p>My name is Leonel Awouma, a Systems and Network Administration Engineer based in Yaoundé, Cameroon, ready to turn your technological challenges into opportunities! With a strong passion for customer satisfaction and sharp expertise, I bring solid skills in network installation, configuration, and security, while optimizing performance with tailored solutions.
+
+Dynamic and committed, I also lead trainings and seminars on AI, ensuring fast and reliable support to boost your productivity. Get in touch today!</p>
 </div>
 
 ---
@@ -160,7 +163,7 @@
 <br>
 
 <p align="center">
-  <cite>"Those who work their land will have abundant food, but those who chase fantasies have no sense." — Proverbs 12:11</cite>
+  <cite>"All hard work brings abundance, but mere talk leads only to poverty." — Proverbs 12:11</cite>
 </p>
 
 </details>
